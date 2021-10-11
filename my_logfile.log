@@ -1,0 +1,6 @@
+[W 210927 15:05:52 code_logzero:18] Este mensaje se ve por consola y en el fichero de log (caso WARN)
+[E 210927 15:05:52 code_logzero:19] Este mensaje se ve por consola y en en el fichero de log (caso WARN)
+[C 210927 15:05:52 code_logzero:20] Este mensaje se ve por consola y en el fichero de log (caso WARN)
+[W 210927 15:09:08 code_logzero:19] Este mensaje se ve por consola y en el fichero de log (caso WARN)
+[E 210927 15:09:08 code_logzero:20] Este mensaje se ve por consola y en en el fichero de log (caso WARN)
+[C 210927 15:09:08 code_logzero:21] Este mensaje se ve por consola y en el fichero de log (caso WARN)
